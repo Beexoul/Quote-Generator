@@ -1,6 +1,6 @@
 # Quote Generator
 
-![Quote Generator Preview](screenshot.png)
+![Quote Generator Preview](Screenshot.png)
 
 ## Description
 
