@@ -38,6 +38,6 @@ The Quote Generator is open-source and available under the [MIT License](LICENSE
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue.
 
----
+----
 
 Thank you for checking out the Quote Generator project! If you have any questions or feedback, feel free to contact us. Enjoy the quotes and get inspired!
