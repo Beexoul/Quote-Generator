@@ -3,7 +3,7 @@
 ![Quote Generator Preview](Screenshot.png)
 
 ## Description
-
+ 
 The Quote Generator is a simple web-based application that displays random quotes to the user. It provides motivational, inspirational, and humorous quotes to uplift and inspire the user. With just a click of a button, a new random quote is generated and displayed on the webpage.
 
 ## Features
