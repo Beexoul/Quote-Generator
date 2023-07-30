@@ -30,9 +30,6 @@ The Quote Generator is built using the following technologies:
 
 The quotes used in this application are sourced from various authors and online collections. The credits for these quotes go to their respective authors.
 
-## License
-
-The Quote Generator is open-source and available under the [MIT License](LICENSE). You are free to use, modify, and distribute this project for personal and commercial purposes.
 
 ## Contribution
 
